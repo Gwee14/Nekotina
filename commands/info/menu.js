@@ -104,7 +104,7 @@ export default {
         })
       }
 
-menu += `\n> *${botname2} desarrollado por ZyxlJs* ૮(˶ᵔᵕᵔ˶)ა`
+menu += `\n> *${botname2} desarrollado por ⁿᵏGwee⚝* ૮(˶ᵔᵕᵔ˶)ა`
 
 if (banner.endsWith('.mp4') || banner.endsWith('.gif') || banner.endsWith('.webm')) {
 await client.sendMessage(
